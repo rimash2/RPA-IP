@@ -1,0 +1,12 @@
+﻿{
+  "Id": "ZIzhR62JOkCa213dQ1AyUg",
+  "Reference": "l8P38Kdhc0-kemQBwYrqKA/ZIzhR62JOkCa213dQ1AyUg",
+  "Name": "Chrome: SAF LTD(1)",
+  "Type": "App",
+  "Created": "2023-08-05T15:05:39.293154Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.6.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-08-05T15:05:39.293154Z"
+}

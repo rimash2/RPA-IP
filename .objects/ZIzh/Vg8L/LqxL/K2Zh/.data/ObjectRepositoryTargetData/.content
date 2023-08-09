@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="--Wa45MNvkW3oUck_MDFnQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://desk.zoho.com/agent/safltd/saf-ltd/tickets/list/all-cases" CvTextArgument="+" CvType="Text" DesignTimeRectangle="1044, 102, 32, 13" DesignTimeScaleFactor="1" FriendlyName="'I'" FullSelectorArgument="&lt;webctrl tag='I' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='I' type='' class='zd_font_icons zd13bca50f0a zd66b0c87383 zd-allmoduleformshortcut-plusIcon' aaname='' /&gt;" Guid="5a8d9185-c307-477d-a22f-6c7dc2357e2e" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACQAAAARCAYAAAC1tw6GAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACdSURBVEhLY9A18fsPwlzFrwcUm/T+BNOjDsKFqeqgwpv//n+4+RmrHLGYqg6quA100O0vWOWIxaMOIoTJd1D7h/+Ryz79T0DCEx8AHfTgG4pYwrKP/z3bsejHgcl30P7f/z/8+Pf/OzL++////79oYkB8Yj8W/TjwaBoihEcdRAhT1UEJZ37/v3DmE1Y5YjFVHUQNPOogQhjioNf/Aanx1y4VfQdpAAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;html app='chrome.exe' title='SAF LTD' /&gt;" SearchSteps="FuzzySelector, Image, CV" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="4084fd274ca14dd19624bb1542a305ba.png" xmlns="">07p8kLvcw00eVBJAvqDIAVg</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
