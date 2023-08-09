@@ -14,14 +14,14 @@ This Project helps one to understand below.
 ## Technical requirements
 The hardware and software that will be required for this project are as follows:
 
-## A PC with UiPath Community edition version 19+ installed (we covered the hardware relating to installation in Chapter 1, 
-## Getting Started with RPA).
-## A Chrome browser with a UiPath add-on.
-## A Zoho Desk SaaS application. You can sign up for free at https://desk.zoho.com.
-## Microsoft Excel 2007 and later.
-## Check out the following video to see the Code in Action: https://bit.ly/36gX89C.
-## You can find the code files present in this chapter on GitHub at https://github.com/PacktPublishing/Robotic-Process-Automation- 
-## Projects/tree/master/HelpdeskAgentAttendedAutomation.
+## 1.A PC with UiPath Community edition version 19+ installed (we covered the hardware relating to installation in Chapter 1, 
+## 2.Getting Started with RPA).
+## 3.A Chrome browser with a UiPath add-on.
+## 4.A Zoho Desk SaaS application. You can sign up for free at https://desk.zoho.com.
+## 5.Microsoft Excel 2007 and later.
+## 6.Check out the following video to see the Code in Action: https://bit.ly/36gX89C.
+## 7.You can find the code files present in this chapter on GitHub at https://github.com/PacktPublishing/Robotic-Process-Automation- 
+## 8.Projects/tree/master/HelpdeskAgentAttendedAutomation.
 
  
 ## Project overview
